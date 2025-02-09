@@ -129,6 +129,8 @@ main a:hover {
 
 main img {
     width: 100%;
+    min-width: 320px;
+    min-height: 568px;
 }
 
 img.pequeno {
